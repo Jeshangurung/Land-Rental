@@ -1,0 +1,10 @@
+999, Kathmandu, North, 5, 50000, Available
+888, Pokhara, East, 8, 60000, Not Available
+777, Lalitpur, South, 10, 100000, Not Available
+666, Rampur, West, 15, 35000, Available
+555, Bajura, North, 17, 20000, Available
+444, Dhangadi, East, 19, 15000, Available
+333, Palpa, South, 22, 21000, Available
+222, Besisahar, West, 25, 25000, Available
+111, Lukla, North, 27, 18000, Available
+000, Meghauli, South, 29, 40000, Avaiable
